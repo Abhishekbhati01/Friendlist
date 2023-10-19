@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.my-list{
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.my-list h1{
+    color: red;
+    font-size: 35px;
+    font-weight: 500;
+}
+.my-list h2{
+    color: blueviolet;
+    font-size: 21px;
+    font-weight: 300;
+    margin-top: 10px;
+    padding: 20px;
+}
